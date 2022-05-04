@@ -15,4 +15,4 @@
 - 4° - Define the shape and generate the wordcloud.
 - 5° - Save as image and display it.
 - Output:
- ![wordcloud](https://github.com/laiananardi/wordcloud_oython/blob/main/cloud.png?raw=true)
+ ![wordcloud](https://github.com/laiananardi/wordcloud_python/blob/main/cloud.png?raw=true)
